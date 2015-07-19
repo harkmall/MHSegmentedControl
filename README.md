@@ -2,6 +2,8 @@
 
 A segmented control thing that looks cooler than the default one. It also has cool animations.
 
+![Screenshot#1](https://raw.githubusercontent.com/golfguru1/MHSegmentedControl/master/Screen%20Shot%202015-07-18%20at%2021.18.47.png)
+
 
 ##Installation
 
