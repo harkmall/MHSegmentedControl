@@ -25,9 +25,15 @@ There is also a delegate that gets notified when the selected index changes:
 @end
 ```
 
+##Project Next Steps
+
+* Allow more than 2 options
+
 ##License
 
 See LICENSE file
+
+Feel free to edit and make it better!
 
 ##Contact
 
